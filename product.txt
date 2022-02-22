@@ -1,0 +1,7 @@
+phone  1245  3000
+watch  1247  1000
+table  1248  60
+smart  1245 500
+cover  1245 80
+laptop 1102 2000
+ipad  1003  2500
